@@ -17,6 +17,5 @@ pipeline {
                 echo 'Deploying....'
             }
         }
-   sh ls     
     }
 }
