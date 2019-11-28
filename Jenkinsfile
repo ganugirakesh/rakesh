@@ -1,1 +1,2 @@
-sh "hostname"
+cd /opt
+ls
