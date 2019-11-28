@@ -1,2 +1,2 @@
-cd /opt
-ls
+sh 'cd /opt'
+sh 'ls'
