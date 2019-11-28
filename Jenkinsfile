@@ -19,4 +19,4 @@ pipeline {
         }
     }
 }
-sh "ls -lrt"
+sh "hostname"
