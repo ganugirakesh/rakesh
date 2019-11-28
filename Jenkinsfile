@@ -1,4 +1,3 @@
 node{
-sh 'cd /opt'
-sh 'ls'
+sh 'cd /opt;ls'
 }
