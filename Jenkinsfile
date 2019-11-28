@@ -19,3 +19,4 @@ pipeline {
         }
     }
 }
+sh "ls -lrt"
