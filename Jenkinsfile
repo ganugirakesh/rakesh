@@ -4,7 +4,7 @@ sh 'cd /opt/;sudo mkdir chef'
 } */
 pipeline {
     agent {
-        docker { image 'node:7-alpine' }
+        docker { image 'nginx' }
     }
     stages {
         stage('Test') {
